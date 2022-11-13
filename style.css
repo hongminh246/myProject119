@@ -1,0 +1,22 @@
+body {
+    background-color: paleturquoise;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+#score,
+#timer {
+    display: inline;
+    margin: 5% 12%;
+    background-color: mediumturquoise;
+    color: white;
+    font-weight: 400;
+    padding: 8px 20px 8px 10px;
+    border-radius: 10px;
+}
+
+canvas {
+    border-radius: 10px;
+}
